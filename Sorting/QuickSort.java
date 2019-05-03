@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class GFG
+class QuickSort
  {
 	public static void main (String[] args)
 	 {
