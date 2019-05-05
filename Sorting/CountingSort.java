@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class QuickSort
+class CountingSort
  {
 	public static void main (String[] args)
 	 {
