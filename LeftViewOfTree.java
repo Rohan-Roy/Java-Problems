@@ -1,4 +1,10 @@
-class LeftViewOfTree
+class Node{
+    Node left;
+    Node right;
+    Node data;
+}
+
+public class LeftViewOfTree
 {
     static int maxLevel = 0;
     void leftView(Node root)
